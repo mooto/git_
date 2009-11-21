@@ -5,4 +5,5 @@
 
 echo "Welcome to GIT world!"
 echo 'Hello World!'
+date
 exit 0
