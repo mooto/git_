@@ -4,4 +4,5 @@
 #	date:		09.Nov.21
 
 echo 'Hello World!'
+date
 exit 0
